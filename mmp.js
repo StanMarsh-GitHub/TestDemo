@@ -1,1 +1,1 @@
-window.open('http://baidu.com');
+window.location.href="https://sspai.com"; 
