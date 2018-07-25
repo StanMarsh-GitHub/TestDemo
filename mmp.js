@@ -1,1 +1,1 @@
-     11111111
+window.open('http://baidu.com');
